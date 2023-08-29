@@ -1,0 +1,4 @@
+#+TITLE: Landing page using HTML and CSS.
+#+AUTHOR: Bilel Hamitouche.
+
+This is a landing page created using HTML and CSS. As a part of the odin project.
